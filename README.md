@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1、主页中的两个按钮分别是数据库操作和代码托管的网址
 
-Things you may want to cover:
+2、图片具有点击功能，进入rails主页的入口
 
-* Ruby version
+3、边缘的log in是登入的入口，界面已基本完善
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+4、边缘的的about、help等链接都已实现跳转功能
